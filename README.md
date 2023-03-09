@@ -1,16 +1,33 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=C7C1FF&height=250&fontSize=80&text=welcome&fontAlignY=35&fontColor=ffffff&desc=doyeon's%20GitHub%20Profile&descSize=30&descAlignY=55)
+<div align="center">
+  
+  <h4>Contact : dy6502@naver.com</h4>
+  <h4>Phone : </h4>
+  <h4>Notion : </h4>
+  
+  </br>
+  
+ <h3>💻 TECH STACK 💻</h3>
+ <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" style="width:auto; height:20px;" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="width:auto; height:20px;"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" style="width:auto; height:20px;"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" style="width:auto; height:20px;"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"  style="width:auto; height:20px;"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" style="width:auto; height:20px;"/>
 
-<!--
-**doyeon218/doyeon218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+![doyeon218 GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeon218&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyeon218&hide_progress=true)](https://github.com/doyeon218/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=C7C1FF)
+  
+  
+  
+  
+  
