@@ -2,7 +2,7 @@
 <div align="center">
   
   <h4>Contact : dy6502@naver.com</h4>
-  <h4>Phone : </h4>
+  <h4>Phone : 010-4717-4630</h4>
   <h4>Notion : </h4>
   
   </br>
