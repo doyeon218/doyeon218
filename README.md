@@ -19,14 +19,14 @@
 <br>
 <br>
 
-![doyeon218 GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeon218&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyeon218&hide_progress=true)](https://github.com/doyeon218/github-readme-stats)
+<!--![doyeon218 GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeon218&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyeon218&hide_progress=true)](https://github.com/doyeon218/github-readme-stats)-->
 
 
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=C7C1FF)
+<!--![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=C7C1FF)-->
   
   
   
